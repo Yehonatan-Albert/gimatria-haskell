@@ -17,7 +17,7 @@ cd gimatria-haskell
 ghc main.hs -o gimatria.exe
 ```
 
-## אופן שימוש
+## אופן השימוש
 
 לאחר הקימפול, ניתן להריץ את התוכנית משורת הפקודה עם המילים שברצונך לחשב:
 
@@ -33,4 +33,4 @@ gimatria שלום עולם
 
 ## דרישות מערכת
 
-**GHC (Glasgow Haskell Compiler):** נדרש לקימפול התוכנית. ניתן להתקין אותו מהאתר הרשמי: https://www.haskell.org/ghcup.
+**GHC (הקומפיילר של Haskell):** נדרש לקימפול התוכנית. ניתן להתקין אותו מהאתר הרשמי: https://www.haskell.org/ghcup.
