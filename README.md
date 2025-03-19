@@ -1,5 +1,7 @@
 # מחשבון גימטריא
 
+![תמונה1](https://github.com/user-attachments/assets/1d0f9c44-608a-4d21-8fd9-adc4af6c6d12)
+
 כלי פשוט לחישוב גימטריא של מילים בעברית, כתוב ב-Haskell.
 
 ## קימפול
